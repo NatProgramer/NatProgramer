@@ -10,13 +10,8 @@ Mi real name is Luis santiago
   <li>Html</li>
   <li>CSS</li>
   <li>Javascript</li>
+  <li>Node.js</li>
+  <li>TypeScript</li>
   <li>React</li>
-</ul>
-
-## Actually learning
-
-<ul>
-  <li>Typescript</li>
   <li>NestJS</li>
-  <li>MongoDB</li>
 </ul>
