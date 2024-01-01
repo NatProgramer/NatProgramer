@@ -1,4 +1,4 @@
-## console.log(' Hello world ')
+## ```JS console.log(' Hello world ')```
 
 Mi real name is Luis santiago
 
