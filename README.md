@@ -5,6 +5,6 @@
 
 # Github Stats
 
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=natProgramer&layout=compact&theme=tokyonight&hide=CSS)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=thenatx&layout=compact&theme=tokyonight&hide=CSS)
 
-![ ](https://github-readme-stats.vercel.app/api?username=NatProgramer&show_icons=true&theme=tokyonight)
+![ ](https://github-readme-stats.vercel.app/api?username=thenatx&show_icons=true&theme=tokyonight)
